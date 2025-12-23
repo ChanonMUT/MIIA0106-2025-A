@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\6811850006\\lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39AADCFF-3BB1-44A8-BBFA-DD33C84652DC}|6.5\\6.5.vcxproj|D:\\6811850006\\lab6\\6.5\\6.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39AADCFF-3BB1-44A8-BBFA-DD33C84652DC}|6.5\\6.5.vcxproj|solutionrelative:6.5\\6.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862180A9-D66C-46A0-B367-E83343E20BD7}|6.2\\6.2.vcxproj|D:\\6811850006\\lab6\\6.2\\6.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{862180A9-D66C-46A0-B367-E83343E20BD7}|6.2\\6.2.vcxproj|solutionrelative:6.2\\6.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD868A9-E284-4F59-9CB2-B60E16A452DA}|lab6\\lab6.vcxproj|D:\\6811850006\\lab6\\lab6\\lab6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFD868A9-E284-4F59-9CB2-B60E16A452DA}|lab6\\lab6.vcxproj|solutionrelative:lab6\\lab6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E75034-B23E-4C25-ACF0-AC07FAEA433E}|6.4\\6.4.vcxproj|D:\\6811850006\\lab6\\6.4\\6.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95E75034-B23E-4C25-ACF0-AC07FAEA433E}|6.4\\6.4.vcxproj|solutionrelative:6.4\\6.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D70AB-ABE0-429A-BC9D-34142369D6E0}|6.3\\6.3.vcxproj|D:\\6811850006\\lab6\\6.3\\6.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C88D70AB-ABE0-429A-BC9D-34142369D6E0}|6.3\\6.3.vcxproj|solutionrelative:6.3\\6.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "6.5.cpp",
+              "DocumentMoniker": "D:\\6811850006\\lab6\\6.5\\6.5.cpp",
+              "RelativeDocumentMoniker": "6.5\\6.5.cpp",
+              "ToolTip": "D:\\6811850006\\lab6\\6.5\\6.5.cpp",
+              "RelativeToolTip": "6.5\\6.5.cpp",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwD8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T10:21:50.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "6.4.cpp",
+              "DocumentMoniker": "D:\\6811850006\\lab6\\6.4\\6.4.cpp",
+              "RelativeDocumentMoniker": "6.4\\6.4.cpp",
+              "ToolTip": "D:\\6811850006\\lab6\\6.4\\6.4.cpp",
+              "RelativeToolTip": "6.4\\6.4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T09:52:43.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "6.3.cpp",
+              "DocumentMoniker": "D:\\6811850006\\lab6\\6.3\\6.3.cpp",
+              "RelativeDocumentMoniker": "6.3\\6.3.cpp",
+              "ToolTip": "D:\\6811850006\\lab6\\6.3\\6.3.cpp",
+              "RelativeToolTip": "6.3\\6.3.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T09:21:39.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "6.2.cpp",
+              "DocumentMoniker": "D:\\6811850006\\lab6\\6.2\\6.2.cpp",
+              "RelativeDocumentMoniker": "6.2\\6.2.cpp",
+              "ToolTip": "D:\\6811850006\\lab6\\6.2\\6.2.cpp",
+              "RelativeToolTip": "6.2\\6.2.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvzUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T09:14:07.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab6.cpp",
+              "DocumentMoniker": "D:\\6811850006\\lab6\\lab6\\lab6.cpp",
+              "RelativeDocumentMoniker": "lab6\\lab6.cpp",
+              "ToolTip": "D:\\6811850006\\lab6\\lab6\\lab6.cpp",
+              "RelativeToolTip": "lab6\\lab6.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T08:38:27.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
